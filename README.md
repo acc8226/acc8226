@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![acc8226's GitHub stats](https://github-readme-stats.vercel.app/api?username=acc8226)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **acc8226/acc8226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
