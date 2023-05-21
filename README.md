@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for a job in CN
 - ❤️ I love writing Kotlin
 - 💬 Ask me about anything [here](https://github.com/acc8226/acc8226/issues)
 - 📫 How to reach me: ...
@@ -24,10 +24,10 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/acc8226/count.svg)
 
 ## Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/acc8226/acc8226-tech-blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acc8226&repo=acc8226-tech-blog&theme=material-palenight" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/acc8226/bing-wallpaper-by-kotlin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acc8226&repo=bing-wallpaper-by-kotlin&theme=material-palenight" />
 </a>
 
