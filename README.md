@@ -36,5 +36,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/acc8226/count.svg)
 <br />
 
 <details>
-  <summary><strong>[点击展开] 微信赞赏支持~</strong></summary><img align="center" src="./needYou.png" /><br /><br />
+  <summary><strong>[点击展开] 微信赞赏支持~</strong></summary>
+  <br /><img align="center" src="./needYou.png" />
 </details>
