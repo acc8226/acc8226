@@ -1,12 +1,13 @@
 ## Hi there 👋
 
+I'm a BackEnd developer from CN.
+
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for a job in CN
+- 🌱 I’m currently learning how to prevent fraud
+- 🤔 I’m looking for a job in Changsha
 - ❤️ I love writing Kotlin
 - 💬 Ask me about anything [here](https://github.com/acc8226/acc8226/issues)
-- 📫 How to reach me: ...
+- 📫 How to reach me: send email to acc8226@qq.com
 
 <!-- 统计访问次数 -->
 You are my ![Visitor Count](https://profile-counter.glitch.me/acc8226/count.svg) visitor.
@@ -35,5 +36,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/acc8226/count.svg)
 <br />
 
 <details>
-  <summary><strong>[点击展开] 微信赞赏支持~</strong></summary><img align="center" src="./needYou.png" />
+  <summary><strong>[点击展开] 微信赞赏支持~</strong></summary><img align="center" src="./needYou.png" /><br /><br />
 </details>
