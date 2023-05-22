@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a BackEnd developer from CN.
+I’m a BackEnd developer from CN.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning how to prevent fraud
