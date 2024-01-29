@@ -14,22 +14,22 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/acc8226/count.svg)
 <br/>
 
 <!-- 常用语言占比统计（紧凑） -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=acc8226&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="Github Stats" width="480" height="170" />
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=acc8226&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="Github Stats" width="480" height="170" /> 
 </a>
 <!-- 仓库状态统计 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acc8226&layout=compact&theme=material-palenight" alt="Top Langs" height="168" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acc8226&layout=compact&theme=material-palenight" alt="Top Langs" height="168" /> 
 </a>
 <br/>
 
 ## Top Repositories
 
-<a href="https://github.com/acc8226/acc8226-tech-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acc8226&repo=acc8226-tech-blog&theme=material-palenight" />
+<a href="https://github.com/acc8226/jiejian"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acc8226&repo=jiejian&theme=material-palenight" /> 
 </a>
 <a href="https://github.com/acc8226/bing-wallpaper-by-kotlin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acc8226&repo=bing-wallpaper-by-kotlin&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acc8226&repo=bing-wallpaper-by-kotlin&theme=material-palenight" /> 
 </a>
 
 <br />
@@ -37,5 +37,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/acc8226/count.svg)
 
 <details>
   <summary><strong>[点击展开] 微信赞赏支持~</strong></summary>
-  <br /><img align="center" src="./needYou.png" />
+  <br /><img align="center" src="./needYou.png" /> 
 </details>
