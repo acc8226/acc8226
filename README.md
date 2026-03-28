@@ -4,7 +4,7 @@ I’m a BackEnd developer from CN.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning how to prevent fraud
-- 🤔 I’m looking for a girl 要结婚
+- 🤔 I’m looking for a girl
 - ❤️ I love writing Kotlin
 - 💬 Ask me about anything [here](https://github.com/acc8226/acc8226/issues)
 - 📫 How to reach me: send email to acc8226@qq.com
